@@ -1,0 +1,81 @@
+# ===== macOS =====
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# ===== System files =====
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===== Node / p5.js =====
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# ===== Arduino =====
+*.hex
+*.elf
+*.bin
+*.cpp.hex
+*.pyc
+__pycache__/
+build/
+*.ino.save
+*.bak
+
+# ===== Unity =====
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+obj/
+*.pidb
+*.booproj
+*.svd
+*.user
+*.suo
+*.userprefs
+*.unityproj
+*.pidb.meta
+*.pdb
+*.mdb
+*.db
+*.opendb
+*.VC.db
+
+# ===== Unity auto-generated folders =====
+/Assets/Plugins/Editor/JetBrains/
+/Assets/StreamingAssets/
+
+# ===== Backup files =====
+*~
+*.swp
+*.swo
+*.tmp
+*.log
+
+# ===== VSCode / JetBrains / IDEs =====
+.vscode/
+.idea/
+*.code-workspace
+
+# ===== Python (if you test AI later) =====
+*.pyc
+*.pyo
+__pycache__/
+.venv/
+env/
+venv/
+
+# ===== Misc =====
+*.zip
+*.rar
+*.tar
+*.gz
+*.7z
