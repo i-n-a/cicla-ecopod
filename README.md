@@ -12,7 +12,6 @@ EcoPod is a smart, connected bicycle parking system for urban environments, crea
 - [Andrey](https://github.com/berlogabob)
 - [Inge](https://github.com/i-n-a)
 - [Nadine](https://github.com/naydino)
-- [Sophia](#)
 
 
 ## About the Repository
